@@ -1,10 +1,10 @@
 // string, number, boolean, array, undefined, null, any
 
 let firstName: string | null;
-firstName = 'Dan';
+firstName = 'Ryan';
 
 let age: number;
-age = 45;
+age = 32;
 
 let hasPurchased = true;
 
